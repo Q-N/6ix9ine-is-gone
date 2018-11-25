@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>JavaScript</title>
+<script>
+var x = 1 // This is the 1st number to add, subtract, multiply, divide
+var y = 2 // This is the 2nd number to add, subtract, multiply, divide
+var z = 3 // This is the 3rd number to add, subtract, multiply, divide
+</script>
+</head>
+<body>
+<script>
+document.write(x + y + z); // Remove any letter to get your answer or add?
+document.write("ix");
+document.write(z * z);
+document.write("ine");
+document.write(" is");
+document.write(" gone");
+</script>
+<br>
+</br>
+<img style="width:50%; height:50%;" src="https://i.ytimg.com/vi/QFLNe1EMdRc/maxresdefault.jpg">
+</body>
+</html>
